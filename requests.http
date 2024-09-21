@@ -1,0 +1,12 @@
+# GET http://localhost:9090/api/travel/
+
+GET http://localhost:9090/api/travel/1fceb2fb-9f0f-409b-9691-a902ff940f34
+# POST http://localhost:9090/api/travel
+# Accept: application/json
+# Content-Type: application/json
+
+# {
+#     "name": "dasdas",
+# }
+
+# ###
